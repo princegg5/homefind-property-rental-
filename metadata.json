@@ -1,0 +1,6 @@
+{
+  "name": "HomeFind",
+  "description": "A modern Real Estate & Property Rental Platform to discover, rent, and buy homes with inquiries, virtual tours, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
